@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Tabbed Contents Widget.
-Plugin URI: https://github.com/kenming/
+Plugin URI: https://github.com/kenming/wp-plugin-tabbed-content-widget
 Description: 使用 Bootstrap 框架 nav-tab Layout 展現位於 Sidebar Widget 的動態內容 
 Author: Kenming Wang
 Version: 0.6

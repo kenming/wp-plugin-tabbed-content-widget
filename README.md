@@ -2,7 +2,7 @@
 
 利用 Bootstrap nav-tab 標籤所設計位於 Siebar 的 Widget，可以切換顯示不同類型的內容。
 
-實作效果可參考：[Kenmingの鮮思維::Blog](http://www.kenming.idv.tw/blog/)]
+實作效果可參考：[Kenmingの鮮思維::Blog](http://www.kenming.idv.tw/blog/)
 
 ## Features
 
